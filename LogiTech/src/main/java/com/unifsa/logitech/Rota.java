@@ -43,7 +43,7 @@ public class Rota {
     public void gerarManifesto(Veiculo v, Carga c) {
         System.out.println("\n========== MANIFESTO DE CARGA ==========");
         
-        // TAREFA 5: Imprimir os dados consolidados: Motorista, Placa, Carga e Destino.
+       
     }
     
 }
